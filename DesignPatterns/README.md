@@ -17,7 +17,7 @@ A creational design pattern that provides an interface for creating objects in a
 ### ❌ Cons
 1. Code can become **complex**, requiring many **subclasses** and **interfaces**.
 
-![Factory Pattern](factory_pattern_diagram.png)
+![Factory Pattern](./images/factory_pattern_diagram.png)
 
 ---
 
@@ -36,7 +36,7 @@ A **creational pattern** that ensures a class has only **one instance** and prov
 2. May become a **bottleneck** in multithreaded applications.
 3. **Hidden dependencies** and **tight coupling** can make code harder to understand and maintain.
 
-![Singleton Pattern](singleton_pattern_diagram.png)
+![Singleton Pattern](./images/singleton_pattern_diagram.png)
 
 ---
 
@@ -55,7 +55,7 @@ A **behavioral design pattern** that enables selecting an algorithm's behavior a
 2. The client must be aware of the strategy interface to use it.
 3. Slight overhead from delegation.
 
-![Strategy Pattern](strategy_pattern_diagram.png)
+![Strategy Pattern](./images/strategy_pattern_diagram.png)
 
 
 ## 🛠️ Usage Tips
